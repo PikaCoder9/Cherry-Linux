@@ -1,2 +1,1 @@
-apt-get fluxbox
-startfluxbox
+nix-env -i fluxbox
