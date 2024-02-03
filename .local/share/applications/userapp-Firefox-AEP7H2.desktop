@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+NoDisplay=true
+Exec=/nix/store/wlvnv6w3f2adnmvnqnhdc0ys9q21dix5-firefox-91.0.1/bin/firefox %u
+Name=Firefox
+Comment=Custom definition for Firefox

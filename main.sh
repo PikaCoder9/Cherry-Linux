@@ -1,1 +1,2 @@
-nix-env -i fluxbox
+fluxbox-generate_menu
+startfluxbox
